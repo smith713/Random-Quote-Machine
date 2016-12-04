@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster:400,500);
+body {
+    background-image: url("https://images7.alphacoders.com/332/332824.jpg");
+  color: #333;
+  font-family: 'Lobster', sans-serif;
+  font-weight:400;
+  
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+.container .text-muted{
+  margin: 20px 0;
+}
+h1 {
+  color: #FFF;
+}
+blockquote {
+  font-size: 25px;
+  background-color: #000;
+  color: #FFF;  
+}
+#author {
+  color: #FFF;
+}
+.panel-body {
+  background-color: black;
+}
+#twitter {
+  font-size: 20px;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+}
+.github {
+  color: #FFF;
+}
+#new-quote {
+  font-family: sans-serif;
+}
